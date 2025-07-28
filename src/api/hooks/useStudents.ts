@@ -1,6 +1,5 @@
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { api } from "..";
-import type { IPerson } from "../../types/types";
 
 export const key = "students";
 
